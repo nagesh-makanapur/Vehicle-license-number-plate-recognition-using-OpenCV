@@ -1,0 +1,14 @@
+{
+Python: Version 3.7.13 
+Easyocr(OCR): Version1.4.1 
+NumPy: Version 1.24.4 
+OpenCV (cv2): Version 4.7.0.72 
+MySql.Connector: Version 8.0.28 
+Twilio: Version 7.6.0 
+Phonenumbers: Version 8.13.50 
+MySQL Workbench: Version 8.0.29 
+Requests: Version 2.32.3 
+JSON: (Part of Python Standard Library, no version) 
+Datetime: (Part of Python Standard Library, no version) 
+Python-bidi: Version 0.6.3 
+}
